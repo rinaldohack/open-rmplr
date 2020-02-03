@@ -9,7 +9,7 @@ I like something that loads fast enough to sketch some ideas and sounds good eno
 **Who starts this project?**<br />
 Actually, not me. <br />
 It is started as **Kiev-samples PSR S900 sample pack**, spreaded for free through several blog and downloaded as torrent, and some disclaimer from the original maker that they aren't making this for profit. They do accept donations, but I'm unsure how to send them. Also there's no contact person. <br />
-So I decided, PSR S900 is quite old already. I decided to take this (probably) a decade-old project, and continue it with my PSR S950 (and several other PSR that I have access to. 
+So I decided, PSR S900 is quite old already. I decided to take this (probably) a decade-old project, and continue it with my PSR S950 (and several other PSR that I have access to). 
 
 **How do I contribute?**<br />
 Learn how to use Git, then fork it. I can merge your work later. Or probably, lend or give me keyboards? ;) <br />
